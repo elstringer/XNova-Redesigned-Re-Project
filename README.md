@@ -5,7 +5,7 @@ Test server
 -----------
 
 If you want to test Xnova Redesigned Re-Project before installing it,
-try test server at this address: [http://134.255.220.77/xnova-test/](http://134.255.220.77/xnova-test/)
+try test server at this address: [http://andromeda-game.esy.es/](http://andromeda-game.esy.es/)
 
 How to Install Xnova Redesigned
 -------------------------------
